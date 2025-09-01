@@ -1,6 +1,3 @@
-package Patterns;
-
-import java.util.*;
 
 class hollow {
   public static void main(String[] args) {

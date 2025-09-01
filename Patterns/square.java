@@ -1,6 +1,3 @@
-package Patterns;
-
-import java.util.*;
 
 public class square {
   
