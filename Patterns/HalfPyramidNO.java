@@ -10,7 +10,7 @@ public class HalfPyramidNO {
         }
     }
 } 
-// Output
+// Outputs
 // 1
 // 1 2
 // 1 2 3
