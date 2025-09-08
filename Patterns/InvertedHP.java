@@ -9,3 +9,9 @@ class InvertedHP {
         }
     }
 }
+
+// Output //
+// ****
+// ***
+// **
+// *
